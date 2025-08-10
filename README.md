@@ -18,7 +18,5 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
 
 
-### GitHub Stats
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCH4iman&layout=compact&langs_count=5)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
