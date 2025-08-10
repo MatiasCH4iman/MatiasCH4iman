@@ -1,6 +1,6 @@
 [![Matías David Chaiman Hans](https://github.com/MatiasCH4iman/MatiasCH4iman/blob/main/img/banner.png)](https://github.com/MatiasCH4iman)
 
-## Hey, I'm Matías!
+## Hey, I'm Matías David Chaiman Hans!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mat%C3%ADas%20David%20Chaiman%20Hans-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mat%C3%ADas-david-chaiman-hans-69229b379/)](https://www.linkedin.com/in/mat%C3%ADas-david-chaiman-hans-69229b379/)
 [![Gmail Badge](https://img.shields.io/badge/-matiaschaiman07-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:matiaschaiman07@gmail.com)](mailto:matiaschaiman07@gmail.com)
@@ -19,8 +19,6 @@
 
 
 ### GitHub Stats
-
-
-![Most Used Languages](https://raw.githubusercontent.com/MatiasCH4iman/github-stats-transparent/output/generated/languages.svg)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCH4iman&layout=compact&langs_count=5)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
