@@ -2,7 +2,7 @@
 
 ## Hey, I'm Matías David Chaiman Hans!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mat%C3%ADas%20David%20Chaiman%20Hans-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mat%C3%ADas-david-chaiman-hans-69229b379/)](https://www.linkedin.com/in/mat%C3%ADas-david-chaiman-hans-69229b379/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mat%C3%ADas%20David%20Chaiman%20Hans-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/matiaschaiman/)](https://www.linkedin.com/in/matiaschaiman/)
 [![Gmail Badge](https://img.shields.io/badge/-matiaschaiman07-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:matiaschaiman07@gmail.com)](mailto:matiaschaiman07@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/MatiasCH4iman?label=Follow&style=social)](https://github.com/MatiasCH4iman) 
 
