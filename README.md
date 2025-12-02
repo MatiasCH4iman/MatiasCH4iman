@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-matiaschaiman07-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:matiaschaiman07@gmail.com)](mailto:matiaschaiman07@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/MatiasCH4iman?label=Follow&style=social)](https://github.com/MatiasCH4iman) 
 
-💻 Software and application developer with experience in **IoT**, **embedded programming**, and **mobile front-end development**.* 
+💻 Software and application developer with experience in **IoT**, **embedded programming**, and **front-end development**.* 
 
 **Tech stack:**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
